@@ -22,6 +22,6 @@ Train Multinomial NB and report confusion matrix.
 Which algorithm has a higher weighted F1 measure and why?
 Does changing the kernel of the SVM change the weighted F1 measure or decrease confusion between classes?
 
-Task 6. Perform part-of-speech tagging on the raw data (i.e. prior to cleaning it), clean as in Task 3, and extract the nouns only to obtain a bag-of-words tf-idf weighted vector representation using only the nouns. Repeat question Task 5. How does this weighted F1 measure compare with that of Task 5? How does the size of the vocabulary compare with that of Task 5?
+Task 6. Perform part-of-speech tagging on the raw data (i.e. prior to cleaning it), clean as in Task 3, and extract the nouns only to obtain a bag-of-words tf-idf weighted vector representation using only the nouns. Repeat Task 5. How does this weighted F1 measure compare with that of Task 5? How does the size of the vocabulary compare with that of Task 5?
 
 Task 7. Fix the class imbalance by the resampling strategy of your choice. Repeat Task 5 and compare the performance with what you received in Task 5. Discuss your findings.
